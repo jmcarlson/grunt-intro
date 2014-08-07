@@ -1,0 +1,8 @@
+.custom-inputs {
+	border-left: 1px dotted LightGray;
+	height: 100%;
+}
+
+.detail-item-delete {
+	background-color: LightGray;
+}
